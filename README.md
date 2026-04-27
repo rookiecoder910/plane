@@ -229,15 +229,7 @@ We will investigate all legitimate reports promptly and keep you updated.
 
 ---
 
-## ❤️ Powered By Our Contributors
 
-The Plane community is incredible. These developers have helped make Plane what it is today:
-
-<a href="https://github.com/makeplane/plane/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=makeplane/plane" alt="Plane Contributors" />
-</a>
-
----
 
 ## 📝 License
 
