@@ -8,7 +8,7 @@
 <p align="center"><strong>Open-source project management that doesn't get in your way</strong></p>
 
 <p align="center">
-  <a href="https://plane.so/">🌐 Website</a> •
+  <a href="https://plane.so/">🌐 Website...</a> •
   <a href="https://forum.plane.so">💬 Forum</a> •
   <a href="https://x.com/planepowers">𝕏 X</a> •
   <a href="https://docs.plane.so/">📚 Documentation</a> •
